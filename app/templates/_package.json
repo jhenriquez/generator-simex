@@ -1,5 +1,9 @@
 {
-  "name": "package",
-  "version": "0.0.0",
-  "dependencies": {}
+  "name": "<%= appName %>",
+  "version": "0.0.1",
+  "dependencies": {
+  	"express" : ">=3.0.0",
+  	"consolidate" : ">=0.10.0",
+  	"<%= veRequire %>": "<%= veVersion %>"
+  }
 }
