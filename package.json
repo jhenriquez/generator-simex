@@ -1,7 +1,7 @@
 {
   "name": "generator-simex",
-  "version": "0.0.0",
-  "description": "Yeoman generator",
+  "version": "0.0.1",
+  "description": "A very simple Yeoman generator that helps kick start an express and nodejs application.",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "jhenriquez/generator-simex",
@@ -23,6 +23,7 @@
     "yeoman-generator"
   ],
   "dependencies": {
+    "yo" : "1.0.0",
     "yeoman-generator": "~0.16.0",
     "chalk": "~0.4.0"
   },

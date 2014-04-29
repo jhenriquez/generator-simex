@@ -9,11 +9,6 @@ var Utilities = {
 			"dep":"jade",
 			"ver":""
 		}
-
-		html : {
-			"dep":"ejs",
-			"ver":""
-		}
 	}
 }
 
